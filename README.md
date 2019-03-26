@@ -71,8 +71,8 @@ Warning:
 Maybe you can suffer this issue:
 "cc1.exe: sorry, unimplemented: 64-bit mode not compiled in".
 
-Obviusly I will give you some posible solutions for your issue, so please keep reading.
-
+Obviusly I will give you some posible solutions for your issue, until now, even me I cant compile IKEMEN GO PLUS because of this bug,
+when I find the fixing, I will add in this readme
 
 
 ----------
