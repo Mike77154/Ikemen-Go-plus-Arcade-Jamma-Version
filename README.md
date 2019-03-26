@@ -4,6 +4,8 @@ IKEMEN Go Plus is a fork of IKEMEN GO that aims to implement all remaining M.U.G
 
 IKEMEN Go is a remake of the IKEMEN (open source fighting games engine that supports M.U.G.E.N resources) in Google’s Programming Language “Go”.
 
+This engine was created originally by Sue Hiro and remaked by K4thos, However Im just trying to expand the engine adding the MIDI file feature using soundfont (.sf2 file) with the fluidsynth library, so this github is created for experimentation and is not my creation
+
 ## Building ##
 
 ### Windows ###
