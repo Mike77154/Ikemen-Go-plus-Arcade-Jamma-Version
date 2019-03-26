@@ -53,7 +53,7 @@ This will create a new folder with Ikemen code.
 
 Move to downloaded folder:
 
-`cd Ikemen-GO-Plus`
+`cd Ikemen-Go-plus-Arcade-Jamma-Version`
 
 Execute get.sh to download Ikemen dependencies (it takes a while):
 
