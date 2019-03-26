@@ -47,7 +47,7 @@ Now, download Ikemen GO Plus repository. It can be done downloading it as a zip 
 
 Using Git:
 
-`git clone https://github.com/Mike77154/Ikemen-Go-plus-Arcade-Jamma-Version-.git`
+`git clone https://github.com/Mike77154/Ikemen-Go-plus-Arcade-Jamma-Version`
 
 This will create a new folder with Ikemen code.
 
