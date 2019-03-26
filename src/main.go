@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/go-gl/glfw/v3.2/glfw"
+	"github.com/go-gl/glfw/tree/master/v3.2/glfw"
 	"github.com/yuin/gopher-lua"
 	"io/ioutil"
 	"os"
