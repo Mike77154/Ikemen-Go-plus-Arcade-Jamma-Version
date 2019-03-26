@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/jfreymuth/go-vorbis/ogg/vorbis"
 	"github.com/timshannon/go-openal/openal"
-	"github.com/sqweek/fluidsynth"
+	"github.com/Mike77154/Fluidsynth-for-Ikemen-Go-Plus"
 	"io"
 	"math"
 	"os"
