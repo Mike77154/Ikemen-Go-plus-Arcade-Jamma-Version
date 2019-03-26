@@ -63,9 +63,14 @@ FINALLY, Ikemen can be compiled executing `build.bat` double clicking it or usin
 
 And now, Ikemen can be opened double clicking `Ikemen-GO-Plus.exe`
 
+Warning
+Maybe you can suffer this issue:
+"cc1.exe: sorry, unimplemented: 64-bit mode not compiled in"
 
-Maybe you can suffer this issue "cc1.exe: sorry, unimplemented: 64-bit mode not compiled in"
-so, there you can get some posible fix for your issue, so please keep reading
+Obviusly I will give you some posible solutions for your issue, so please keep reading.
+
+
+
 ----------
 
 ### Linux ###
